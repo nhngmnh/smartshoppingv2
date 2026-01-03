@@ -315,7 +315,7 @@ INSERT INTO recipe_ingredients (recipe_id, food_id, quantity, unit_id, is_main_i
 (32, 31, 0.5, 1, TRUE, 'Gạo nấu cơm'),
 (32, 21, 2, 5, FALSE, 'Trứng gà'),
 (32, 13, 0.1, 1, FALSE, 'Thịt gà'),
-(32, 42, 0.1, 1, FALSE, 'Xúc xích'),
+(32, 41, 0.1, 1, FALSE, 'Xúc xích'),
 (32, 5, 2, 5, FALSE, 'Tỏi băm'),
 (32, 29, 3, 4, FALSE, 'Dầu ăn');
 
